@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jayxrey
-- 👀 I’m interested in software engineering, machine learning, and generative art 
+- 👀 I’m interested in software engineering and machine learning 
 - 📫 Feel free to reach out to me at jreyes@wesleyan.edu !
