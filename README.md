@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @jayxrey
+- 👋 Hi, I’m Jay!
 - 👀 I’m interested in software engineering and machine learning 
 - 📫 Feel free to reach out to me at jreyes@wesleyan.edu !
