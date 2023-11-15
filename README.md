@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jay!
 - 🎓 I am currently pursuing a MSc in Computer Science at the University of Copenhagen
-- 👀 Looking for any software engineering and machine learning opportunities
+- 👀 Open to software engineering and machine learning opportunities
 - 📫 Feel free to reach out to me at juancyreyes@aol.com !
